@@ -1,6 +1,16 @@
 # Nike-Clone-React
 - Nike's website is an e-commerce platform that allows customers to browse and purchase Nike products online. The website features a clean and modern design that highlights Nike's branding and product offerings. 
 
+## Appendix
+- Me and my team, Mohib, Sunil, and Akash, have developed a website for Nike using React JS and Chakra UI. The website includes a login page with user authentication through a required API, the homepage,the product page which contain multiple filter and sorting functions, the product details page and the add-to-cart page, where users can delete products or increase quantity. The payment page, which includes basic and card details and an OTP verification system. Overall, we have developed a comprehensive e-commerce platform for Nike that provides a seamless shopping experience.
+
+## Demo Video
+-
+
+https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-ad6f-dfe48888cb84.mp4
+
+
+
 ## ScreenShots
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/55624994/234247278-b46eaade-d9d1-4588-a5cf-86d3adc49c31.png)
