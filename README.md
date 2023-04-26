@@ -13,10 +13,10 @@
 
 
 ## 🛠 Technologies Used
-<div style="display:flex">
+
  [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)   
  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
- <div>
+
  
  
  
