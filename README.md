@@ -14,7 +14,7 @@
 
 ## 🛠 Technologies Used
 
- [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)    <img width="140px" height="50px"  src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
+ [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)    <img width="160px" height="50px"  src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true"/>
 
 
  
