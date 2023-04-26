@@ -11,6 +11,11 @@
 - Rutuj Gopale
 - Sunil Amaranth
 
+
+## 🛠 Technologies Used
+ [![My Skills](https://skillicons.dev/icons?i=Recat js,js,html,css,chakra ui )](https://skillicons.dev)    
+ 
+ 
 ## Deployment Link
 - [ https://keen-gumption-fb166b.netlify.app/](https://nikeclonereact.netlify.app/)
 
@@ -59,7 +64,7 @@ The product details page is where users can find detailed information about a sp
 - Add to Cart Page</br>
 The add to cart page is where users can manage the items in their cart. This page is also built by Akash and allows users to increase or decrease the quantity of a product or remove a product from their cart entirely. The page displays the total cost of the items in the cart and allows users to proceed to the checkout process.
 ![Screenshot (167)](https://user-images.githubusercontent.com/55624994/234247387-6f7d081a-4149-483e-9cd3-dde0e897c4b5.png)
--Payment Page </br>
+- Payment Page </br>
 The payment page is where users enter their payment information to complete their purchase. The page is created by me and consists of basic details and card information. This page ensures  payment processing by generating an OTP for verification. Once the OTP is entered correctly, the user can click on the "Pay" button, if any field is empty in the card details section it will throw an alert to enter all details and also the card ui changes on the basis of card number related to specific card brand.
 ![Screenshot (168)](https://user-images.githubusercontent.com/55624994/234247398-8954c365-3413-4e2a-ab7b-86351d958b5a.png)
 ![Screenshot (169)](https://user-images.githubusercontent.com/55624994/234247412-07a19a0a-3dd9-47c6-a981-7b9c6d09f836.png)
@@ -68,3 +73,18 @@ The payment page is where users enter their payment information to complete thei
 ![Screenshot (172)](https://user-images.githubusercontent.com/55624994/234247436-98039578-5013-47e9-8ce6-77a01832eafc.png)
 ![Screenshot (173)](https://user-images.githubusercontent.com/55624994/234247442-cdaed890-ef48-4b46-9892-22d1bbe1c178.png)
 ![Screenshot (174)](https://user-images.githubusercontent.com/55624994/234247453-0470594c-7a82-432e-b695-cfe3e6fdbcf2.png)
+
+## Hosting and API
+- The website's data is hosted on the Render website to generate the API and fetch data to display on the website. This ensures that the website loads quickly and securely. The Requres API is used to authenticate users and ensure secure login credentials. These technologies work together to create a seamless and secure online shopping experience for users.
+
+## Future Scope
+
+- In the future, we plan to add more features to our Overstock clone, such as a product recommendation system, customer reviews, more products and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
+
+## Conclusion
+
+- Overall, our first React js  project in Masai School's Full-Stack Web Development program was a challenging and rewarding experience. We gained valuable experience in web development and worked as a team to create a fully functional website. We are excited to continue learning and building new projects in the future.
+
+## Feedback
+
+- If you have any feedback, please reach out to rutujbg99@gmail.com
