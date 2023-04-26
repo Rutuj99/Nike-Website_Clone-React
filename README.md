@@ -1,4 +1,5 @@
-# Nike-Clone---React
+# Nike-Clone-React
+- Nike's website is an e-commerce platform that allows customers to browse and purchase Nike products online. The website features a clean and modern design that highlights Nike's branding and product offerings. 
 
 ## ScreenShots
 
