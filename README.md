@@ -13,7 +13,7 @@
 
 
 ## 🛠 Technologies Used
- [![My Skills](https://skillicons.dev/icons?i=Recat js,js,html,css,chakra ui )](https://skillicons.dev)    
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)      
  
  
 ## Deployment Link
