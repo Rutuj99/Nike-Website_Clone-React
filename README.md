@@ -12,25 +12,27 @@
 - Sunil Amaranth
 
 ## Deployment Link
--[ https://keen-gumption-fb166b.netlify.app/](https://nikeclonereact.netlify.app/)
+- [ https://keen-gumption-fb166b.netlify.app/](https://nikeclonereact.netlify.app/)
 
 
 
 
-## Features
+## Features/Pages
 
 - User authentication and authorization
-- Product sort on basis of Rating and Price functionality
-- Shopping cart and checkout system
+- Home Page
+- Product's sorting on basis and Price and Multiple Filtering 
+- Product Detail Page
 - Payment Page 
-
+- Payment Success Page
 
 ## Demo Video
 https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-ad6f-dfe48888cb84.mp4
 
 
-
 ## ScreenShots
+- Login Page
+The login page allows users to authenticate themselves using the Requres API. Once authenticated, users can access the rest of the website.
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/55624994/234247278-b46eaade-d9d1-4588-a5cf-86d3adc49c31.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/55624994/234247287-64cdcbe0-07ba-4426-a84c-a2949e2f4d3b.png)
