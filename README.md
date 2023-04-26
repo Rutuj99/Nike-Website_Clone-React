@@ -56,7 +56,11 @@ The product page is where users can view all the products available for purchase
 - Product Details Page<br>
 The product details page is where users can find detailed information about a specific product. This page is built by Akash and includes information such as product descriptions, images, and pricing information. Users can also add the product to their cart directly from this page.
 ![Screenshot (166)](https://user-images.githubusercontent.com/55624994/234247372-0ea8898c-3fcb-47c2-a907-71e7b1c2e9f3.png)
+- Add to Cart Page
+The add to cart page is where users can manage the items in their cart. This page is also built by Akash and allows users to increase or decrease the quantity of a product or remove a product from their cart entirely. The page displays the total cost of the items in the cart and allows users to proceed to the checkout process.
 ![Screenshot (167)](https://user-images.githubusercontent.com/55624994/234247387-6f7d081a-4149-483e-9cd3-dde0e897c4b5.png)
+-Payment Page
+The payment page is where users enter their payment information to complete their purchase. The page is created by me and consists of basic details and card information. This page ensures  payment processing by generating an OTP for verification. Once the OTP is entered correctly, the user can click on the "Pay" button, if any field is empty in the card details section it will throw an alert to enter all details.
 ![Screenshot (168)](https://user-images.githubusercontent.com/55624994/234247398-8954c365-3413-4e2a-ab7b-86351d958b5a.png)
 ![Screenshot (169)](https://user-images.githubusercontent.com/55624994/234247412-07a19a0a-3dd9-47c6-a981-7b9c6d09f836.png)
 ![Screenshot (170)](https://user-images.githubusercontent.com/55624994/234247419-9c5a2859-6490-42b2-95fe-2796127da23c.png)
