@@ -45,6 +45,8 @@ The login page allows users to authenticate themselves using the Requres API. On
 ![Screenshot (158)](https://user-images.githubusercontent.com/55624994/234247308-47fb7a1e-c307-4d72-b102-29f22d977984.png)
 ![Screenshot (159)](https://user-images.githubusercontent.com/55624994/234247312-563481db-606c-4f0c-b970-af6ebaf15fe6.png)
 ![Screenshot (160)](https://user-images.githubusercontent.com/55624994/234247339-ff0d7638-0bf6-4591-867a-5c1f5e83461b.png)
+- Product Page</br>
+The product page is where users can view all the products available for purchase.It is  a user-friendly interface developed by me  that allows users to filter and sort the products based on their preferences. Users can filter the products by category, price range,gender and color.
 ![Screenshot (161)](https://user-images.githubusercontent.com/55624994/234247345-26c26819-dec5-4e99-af1b-297a2a4c5efa.png)
 ![Screenshot (162)](https://user-images.githubusercontent.com/55624994/234247349-70759bad-0d3f-43a9-b038-1627f85b9a36.png)
 ![Screenshot (163)](https://user-images.githubusercontent.com/55624994/234247359-5726136d-354c-488b-b714-6c2084f29f50.png)
