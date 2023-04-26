@@ -52,6 +52,9 @@ The product page is where users can view all the products available for purchase
 ![Screenshot (163)](https://user-images.githubusercontent.com/55624994/234247359-5726136d-354c-488b-b714-6c2084f29f50.png)
 ![Screenshot (164)](https://user-images.githubusercontent.com/55624994/234247363-1633cd26-8a3b-4fe6-92ae-7f1f55eed2fa.png)
 ![Screenshot (165)](https://user-images.githubusercontent.com/55624994/234247369-491c848f-c081-4bf9-af8c-6e89d51989d4.png)
+
+- Product Details Page<br>
+The product details page is where users can find detailed information about a specific product. This page is built by Akash and includes information such as product descriptions, images, and pricing information. Users can also add the product to their cart directly from this page.
 ![Screenshot (166)](https://user-images.githubusercontent.com/55624994/234247372-0ea8898c-3fcb-47c2-a907-71e7b1c2e9f3.png)
 ![Screenshot (167)](https://user-images.githubusercontent.com/55624994/234247387-6f7d081a-4149-483e-9cd3-dde0e897c4b5.png)
 ![Screenshot (168)](https://user-images.githubusercontent.com/55624994/234247398-8954c365-3413-4e2a-ab7b-86351d958b5a.png)
