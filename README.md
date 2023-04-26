@@ -13,7 +13,7 @@
 
 
 ## 🛠 Technologies Used
- [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)](https://skillicons.dev)      
+ [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)      
  
  
 ## Deployment Link
