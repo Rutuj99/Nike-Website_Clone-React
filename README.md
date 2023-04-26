@@ -4,6 +4,27 @@
 ## Appendix
 - Me and my team, Mohib, Sunil, and Akash, have developed a website for Nike using React JS and Chakra UI. The website includes a login page with user authentication through a required API, the homepage,the product page which contain multiple filter and sorting functions, the product details page and the add-to-cart page, where users can delete products or increase quantity. The payment page, which includes basic and card details and an OTP verification system. Overall, we have developed a comprehensive e-commerce platform for Nike that provides a seamless shopping experience.
 
+## Authors
+
+- Mohib Khan
+- Aakash Prajapat
+- Rutuj Gopale
+- Sunil Amaranth
+
+## Deployment Link
+-[ https://keen-gumption-fb166b.netlify.app/](https://nikeclonereact.netlify.app/)
+
+
+
+
+## Features
+
+- User authentication and authorization
+- Product sort on basis of Rating and Price functionality
+- Shopping cart and checkout system
+- Payment Page 
+
+
 ## Demo Video
 https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-ad6f-dfe48888cb84.mp4
 
