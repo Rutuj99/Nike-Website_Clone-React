@@ -79,7 +79,7 @@ The payment page is where users enter their payment information to complete thei
 ![Screenshot (174)](https://user-images.githubusercontent.com/55624994/234247453-0470594c-7a82-432e-b695-cfe3e6fdbcf2.png)
 
 ## Hosting and API
-- The website's data is hosted on the Render website to generate the API and fetch data to display on the website. This ensures that the website loads quickly and securely. The Requres API is used to authenticate users and ensure secure login credentials. These technologies work together to create a seamless and secure online shopping experience for users.
+- The website's data is hosted on the Render website to generate the API and fetch data to display on the website. This ensures that the website loads quickly and securely. The Requres API is used to authenticate users and ensure secure login credentials and deployed on Netlify. These technologies work together to create a seamless and secure online shopping experience for users.
 
 ## Future Scope
 
