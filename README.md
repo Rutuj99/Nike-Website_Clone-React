@@ -31,14 +31,16 @@ https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-
 
 
 ## ScreenShots
-- Login Page </br>
-The login page allows users to authenticate themselves using the Requres API. Once authenticated, users can access the rest of the website.
+
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/55624994/234247278-b46eaade-d9d1-4588-a5cf-86d3adc49c31.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/55624994/234247287-64cdcbe0-07ba-4426-a84c-a2949e2f4d3b.png)
 ![Screenshot (155)](https://user-images.githubusercontent.com/55624994/234247291-6ba735b0-6c37-4538-adb8-010b08076f59.png)
 ![Screenshot (156)](https://user-images.githubusercontent.com/55624994/234247296-ab5b18b9-1845-49ff-aea2-051dd4edd611.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/55624994/234247302-c7ed4aa6-7f80-4960-b742-535492e176d7.png)
+
+- Login Page </br>
+The login page allows users to authenticate themselves using the Requres API. Once authenticated, users can access the rest of the website.
 ![Screenshot (158)](https://user-images.githubusercontent.com/55624994/234247308-47fb7a1e-c307-4d72-b102-29f22d977984.png)
 ![Screenshot (159)](https://user-images.githubusercontent.com/55624994/234247312-563481db-606c-4f0c-b970-af6ebaf15fe6.png)
 ![Screenshot (160)](https://user-images.githubusercontent.com/55624994/234247339-ff0d7638-0bf6-4591-867a-5c1f5e83461b.png)
