@@ -32,7 +32,8 @@ https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-
 
 ## ScreenShots
 
-
+- Home Page <br/>
+It is designed to showcase the different products available on the website. Sunil has implemented an attractive and user-friendly design that displays the products in an organized and visually appealing manner. Users can browse through the products by scrolling down the page or by using the search bar to find specific products.
 ![Screenshot (153)](https://user-images.githubusercontent.com/55624994/234247278-b46eaade-d9d1-4588-a5cf-86d3adc49c31.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/55624994/234247287-64cdcbe0-07ba-4426-a84c-a2949e2f4d3b.png)
 ![Screenshot (155)](https://user-images.githubusercontent.com/55624994/234247291-6ba735b0-6c37-4538-adb8-010b08076f59.png)
