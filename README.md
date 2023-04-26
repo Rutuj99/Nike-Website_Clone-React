@@ -83,7 +83,7 @@ The payment page is where users enter their payment information to complete thei
 
 ## Future Scope
 
-- In the future, we plan to add more features to our Overstock clone, such as a product recommendation system, customer reviews, more products and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
+- In the future, we plan to add more features to our Nike clone, such as a product recommendation system, customer reviews, more products and a more advanced search functionality. We also plan to improve the performance and responsiveness of the website.
 
 ## Conclusion
 
