@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/55624994/234590605-c63334b8-0f4d-4641-
 
 
 ## ScreenShots
-- Login Page
+- Login Page </br>
 The login page allows users to authenticate themselves using the Requres API. Once authenticated, users can access the rest of the website.
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/55624994/234247278-b46eaade-d9d1-4588-a5cf-86d3adc49c31.png)
