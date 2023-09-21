@@ -19,8 +19,12 @@
 
  
  
- 
 ## Deployment Link
+**_NOTE:_**  {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+ 
 - [ https://keen-gumption-fb166b.netlify.app/](https://nikeclonereact.netlify.app/)
 
 
